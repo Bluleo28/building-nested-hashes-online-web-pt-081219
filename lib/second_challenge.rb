@@ -1,4 +1,4 @@
-def second_challenge(family_names)
+def second_challenge
    epic_tragedy = {
    :montague => {
       :patriarch => {},
